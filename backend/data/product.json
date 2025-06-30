@@ -1,0 +1,186 @@
+[
+  {
+    "name": "IPhone",
+    "quantity": 100,
+    "price": 1100,
+    "description": "Iphone made by Apple!",
+    "category": "Electronics",
+    "id": "5814b12f-b8df-4925-87ae-10e119f76b89"
+  },
+  {
+    "name": "Air Conditioner",
+    "quantity": 75,
+    "price": 400,
+    "description": "Energy efficient split AC..",
+    "category": "Electronics",
+    "id": "a1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Sofa Set",
+    "quantity": 50,
+    "price": 950,
+    "description": "Luxury leather sofa set.",
+    "category": "Home & Kitchen",
+    "id": "b1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "LED TV",
+    "quantity": 120,
+    "price": 700,
+    "description": "55 inch 4K Ultra HD Smart TV.",
+    "category": "Electronics",
+    "id": "c1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Running Shoes",
+    "quantity": 300,
+    "price": 120,
+    "description": "Lightweight and durable.",
+    "category": "Fashion",
+    "id": "d1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Water Bottle",
+    "quantity": 500,
+    "price": 10,
+    "description": "Stainless steel bottle.",
+    "category": "Home & Kitchen",
+    "id": "e1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Backpack",
+    "quantity": 200,
+    "price": 35,
+    "description": "Durable travel backpack.",
+    "category": "Fashion",
+    "id": "f1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Wrist Watch",
+    "quantity": 150,
+    "price": 250,
+    "description": "Stylish analog watch.",
+    "category": "Fashion",
+    "id": "g1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Football",
+    "quantity": 180,
+    "price": 30,
+    "description": "Standard size football.",
+    "category": "Sports",
+    "id": "h1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Table Lamp",
+    "quantity": 130,
+    "price": 25,
+    "description": "Modern LED desk lamp.",
+    "category": "Home & Kitchen",
+    "id": "i1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "quantity": 90,
+    "price": 60,
+    "description": "Portable and waterproof.",
+    "category": "Electronics",
+    "id": "j1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Jeans",
+    "quantity": 400,
+    "price": 40,
+    "description": "Stretchable blue jeans.",
+    "category": "Fashion",
+    "id": "k1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Laptop",
+    "quantity": 85,
+    "price": 950,
+    "description": "High performance laptop.",
+    "category": "Electronics",
+    "id": "l1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Headphones",
+    "quantity": 210,
+    "price": 80,
+    "description": "Noise cancelling over-ear headphones.",
+    "category": "Electronics",
+    "id": "m1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Cookware Set",
+    "quantity": 70,
+    "price": 110,
+    "description": "Non-stick cooking pans.",
+    "category": "Home & Kitchen",
+    "id": "n1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Smartwatch",
+    "quantity": 130,
+    "price": 180,
+    "description": "Fitness tracker with heart rate monitor.",
+    "category": "Electronics",
+    "id": "o1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Basketball",
+    "quantity": 170,
+    "price": 28,
+    "description": "Indoor/outdoor use basketball.",
+    "category": "Sports",
+    "id": "p1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "T-Shirt",
+    "quantity": 600,
+    "price": 15,
+    "description": "Cotton round-neck T-shirt.",
+    "category": "Fashion",
+    "id": "q1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Microwave Oven",
+    "quantity": 40,
+    "price": 300,
+    "description": "Convection microwave with grill.",
+    "category": "Home & Kitchen",
+    "id": "r1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Yoga Mat",
+    "quantity": 250,
+    "price": 22,
+    "description": "Non-slip eco-friendly yoga mat.",
+    "category": "Sports",
+    "id": "s1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Children's Story Book",
+    "quantity": 300,
+    "price": 8,
+    "description": "Illustrated bedtime stories for kids.",
+    "category": "Books",
+    "id": "t1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Puzzle Game",
+    "quantity": 190,
+    "price": 12,
+    "description": "500 piece jigsaw puzzle.",
+    "category": "Toys",
+    "id": "u1234567-89ab-cdef-0123-456789abcdef"
+  },
+  {
+    "name": "Remote Car Toy",
+    "quantity": 140,
+    "price": 35,
+    "description": "Rechargeable RC car with lights.",
+    "category": "Toys",
+    "id": "v1234567-89ab-cdef-0123-456789abcdef"
+  }
+]
